@@ -61,4 +61,4 @@ limitations under the License.
 ```
 
 [contributing]: https://github.com/etdon/shared-guidelines/blob/main/CONTRIBUTING.md
-[license]: https://github.com/etdon/fiddler-customization/blob/master/LICENSE
+[license]: https://github.com/etdon/fiddler-customizer/blob/master/LICENSE
