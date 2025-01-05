@@ -13,7 +13,7 @@
 
 ## 🔰 Introduction
 
-The `fiddler-customization` project is a proof-of-concept tool to apply a dark mode look to the [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic) UI which doesn't support it by default and is using
+The `fiddler-customization` project is a proof-of-concept DLL to apply a dark mode look to the [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic) UI which doesn't support it by default and is using
 various, deprecated, WinForm controls making customization tedious. The tool works by leveraging mostly un-documented Windows API for drawing/flagging as well as C++/CLI to interact with the CIL components of the application
 during run-time since Fiddler Classic is written in C#.
 
